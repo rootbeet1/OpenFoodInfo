@@ -17,7 +17,7 @@ OpenFoodInfo is a Python script that utilizes the Open Food Facts API to retriev
 
 3. **Run the script:**
    ```bash
-   python openfoodinfo.py
+   python script.py
    ```
 
 4. **Enter the product name when prompted, and the script will fetch and display relevant information.**
