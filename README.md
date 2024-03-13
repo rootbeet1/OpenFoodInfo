@@ -1,4 +1,4 @@
-# MyAwesomeOpenFoodInfo
+# OpenFoodInfo
 
 ## Overview
 OpenFoodInfo is a Python script that utilizes the Open Food Facts API to retrieve information about a specified food product. The script fetches data such as Eco-score, Nutri-score, and detailed nutriments, providing users with valuable insights into their chosen product.
