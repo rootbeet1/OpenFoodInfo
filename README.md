@@ -7,7 +7,7 @@ OpenFoodInfo is a Python script that utilizes the Open Food Facts API to retriev
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/rootbeet1/OpenFoodInfo
-   cd MyAwesomeOpenFoodInfo
+   cd OpenFoodInfo
    ```
 
 2. **Install dependencies from requirements.txt:**
