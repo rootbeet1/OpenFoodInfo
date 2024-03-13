@@ -6,7 +6,7 @@ def get_product_info(product_name):
     api = openfoodfacts.API(user_agent="MyAwesomeApp/1.0")
     data = api.product.text_search(product_name)
    
-    with open('test.json', 'w') as f:
+    with open('info.json', 'w') as f:
         json.dump(data,f,indent=4)
     
     product = data['products'][0]
